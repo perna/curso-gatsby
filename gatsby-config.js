@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Curso de Gastby`,
     description: `Curso de Gatsby do William Justen`,
+    position: `Front End Developer`,
     author: `@theperna`,
   },
   plugins: [
